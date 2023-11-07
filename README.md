@@ -1,2 +1,2 @@
 # cautious-octo-fiesta
-Foe the practice nucampsite
+For the practice nucampsite
